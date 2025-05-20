@@ -1,0 +1,198 @@
+/* background color */
+html{
+   background-color: rgba(21, 14, 164, 0.811)
+}
+/* background color end */
+
+
+
+/* body */
+
+body{
+   margin: 0;
+   padding: 0;
+}
+
+
+/* body end */
+
+
+
+
+/*
+====================================
+Header and Section 1
+====================================
+*/
+
+*,
+*:before,
+*:after {
+-webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+        box-sizing: border-box;
+}
+
+.lad{
+   display: inline-block;
+   border: 0px solid;
+   height: 50px;
+   width: 100%;
+   font-size: large;
+   font-weight: bolder;
+   color: white;
+   box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2); /* Soft outer shadow */
+   text-align: center;
+   padding-top: 13px;
+   margin-bottom: 0;
+   margin-top: 0;
+   background-color: rgba(10, 10, 106, 0.800);
+}
+
+.lad2{
+   display: inline-block;
+   border: 0px solid;
+   height: 40px;
+   width: 100%;
+   color: white;
+   font-size: small;
+   text-align: center;
+   padding-top: 10px;
+   margin-bottom: 30px;
+   background-color: rgba(0, 0, 127, 0.215);
+}
+
+
+
+
+.maintain{
+ margin: 0 auto;
+ padding-left: 30px;
+ padding-right: 30px;
+ width: 960px;
+}
+
+/* typography */
+h1,h3,h4,h5,p{
+    margin-bottom: 22px;
+}
+
+/* Get started Button */
+.ntn{
+    border-radius: 5px;
+    display: inline-block;
+    margin: 0;
+    color: black;
+    font-weight: bold;
+    background-color: #dfba00;
+    text-decoration: none;
+}
+.ntn-alt{
+    border: 0px solid black;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.18); /* Soft outer shadow */
+    padding: 10px 30px;
+}
+
+h5{
+   font-size: medium;
+   text-align: center;
+}
+
+/*
+ ======================================================================
+   Home
+ ======================================================================
+*/
+
+.vilia{
+    padding: 22px 80px 66px 80px;
+}
+
+/* ============================
+text colour
+===============================
+*/
+.maintain,.vilia{
+   color: white;
+}
+.link{
+   color: white;
+   text-decoration: none;
+   margin: 10px;
+}
+
+/* center align */
+.maintain,.vilia{
+   text-align: center;
+}
+
+
+/* 
+==============
+Breed and Sol-0-1
+==============
+*/
+
+
+ .sol-0-1 {
+    display: inline-block;
+    box-sizing: border-box;
+    border-radius: 20px;
+    height: 140px;
+    width: 310px;
+    background-color: #e5e8ea8c;
+    font-size: small;
+    text-align: center;
+    align-items: center;
+    padding: 5px;
+    vertical-align: top;
+    border-radius: 5px;
+    border: 0px solid;
+    margin: 15px
+   }
+
+ /* .breed,.sol-0-1 {
+    padding-left: 15px;
+    padding-right: 15px;
+ } */
+
+ .maintain,.breed {
+    margin: 0 auto;
+    width: 960px;
+    }
+ 
+ .maintain {
+    padding-left: 30px;
+    padding-right: 30px;
+ }
+
+ .breed{
+   display: inline-block;
+   border: 1px white;
+   background-color: white;
+   text-align: center;
+   margin-top: 30px;
+   padding: 30px; padding-right: 5px; padding-left: 5px;
+   padding-bottom: 60px;
+   width: 100%;
+   box-shadow: 0 8px 30px rgba(0, 0, 0, 2); /* Soft outer shadow */
+ }
+
+
+ /* footer */
+ footer{
+   display: inline-block;
+   text-align: center;
+   height: 50px;
+   width: 100%;
+   background-color: rgba(10, 10, 106, 0.800);
+   padding-top: 15px;
+   border: 0px solid
+ }
+ small{
+   color: white;
+ }
+
+
+
+
